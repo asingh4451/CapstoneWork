@@ -80,3 +80,19 @@ Goals after MST's 8/10/23
 3. Himmat : Model FineTuning
 4. Sahil : Query on Sample Database
 **Evaluation on :- 10/10/2023**
+
+
+**G-Meet 29-10-2023 **
+
+Completed Tasks: 
+1. Abhijot : Implemented firebase authentication to app login AND made intermediatery pages fro students and admin along with UI.
+2. Manamrit : Model Siamese finetune but no result, alternate model foung VGG, Size reduced from 450MB To 80MB.
+3. Himmat :  
+4. Sahil : /* */
+Goals :
+1. Abhijot : More pages for flutter application.
+2. Manamrit : Connection of flutter and tensorFlow.
+3. Himmat : Liveness Detection Integration.
+4. Sahil : Automate entries in sample Database and send database to Abhijot.
+
+
